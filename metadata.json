@@ -1,0 +1,6 @@
+{
+  "name": "ClickBridge - Mes Tâches & Punch Rapide ClickUp",
+  "description": "Affichage ultra-simplifié de vos tâches assignées ClickUp classées par livrable, recherche instantanée de projet et chrono miniature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

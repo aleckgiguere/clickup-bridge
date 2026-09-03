@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#4c1d95" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#d8b4fe" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)" />
+  <rect x="32" y="32" width="448" height="448" rx="104" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="8" />
+  
+  <!-- Stylized CB / Layers / Checkmark Icon -->
+  <path d="M160 176 L256 128 L352 176 L256 224 Z" fill="url(#accentGrad)" opacity="0.95" />
+  <path d="M160 256 L256 208 L352 256 L256 304 Z" fill="url(#accentGrad)" opacity="0.75" />
+  <path d="M160 336 L256 288 L352 336 L256 384 Z" fill="url(#accentGrad)" opacity="0.55" />
+  
+  <!-- Clock / Punch Accent -->
+  <circle cx="368" cy="368" r="72" fill="#0f172a" stroke="#a855f7" stroke-width="12" />
+  <polyline points="368,336 368,368 392,380" fill="none" stroke="#38bdf8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

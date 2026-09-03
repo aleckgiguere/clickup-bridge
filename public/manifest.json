@@ -1,0 +1,18 @@
+{
+  "name": "ClickBridge - Mes Tâches & Punch ClickUp",
+  "short_name": "ClickBridge",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#9333ea",
+  "orientation": "any",
+  "description": "Application de bureau Windows pour gérer ses tâches ClickUp par échéance, rechercher ses projets et puncher en temps réel.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
